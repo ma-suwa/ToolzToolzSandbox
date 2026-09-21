@@ -11,6 +11,8 @@ shared/
   createTweakPane.js  defaultParams定義からTweakPaneのUIを自動生成
   urlParams.js      URLクエリ ⇔ パラメータの相互変換
   color.js          共通カラーパレット
+  gradient.js       グラデーション系ツール共通のカラー補間ヘルパー(multiLerpColor/triangleWave)
+  layout.js         複数シェイプ配置・差異付け用ヘルパー(phyllotaxisPoints/hash01/hashRange/shuffleColors/pickGradientStyle)
   datetime.js       ダウンロードファイル名用の日時フォーマッタ
   style.css         最低限のレイアウト(canvas + パラメーターパネル)
 
